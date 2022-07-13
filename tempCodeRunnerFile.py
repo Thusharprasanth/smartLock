@@ -1,0 +1,1 @@
+ser = serial.Serial('COM6', 9600, timeout=0)
